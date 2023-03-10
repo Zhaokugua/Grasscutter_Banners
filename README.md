@@ -1,5 +1,4 @@
-# Grasscutter_Banners
-# 割草机卡池文件
+# Grasscutter_Banners|割草机卡池文件
 
 Json file collection for Grasscutter gacha Banners
 
@@ -22,17 +21,12 @@ You're all welcome to submit a pull request and make a change on the project.
 欢迎提交pr！
 
 
-## Thanks:
-[https://github.com/davidbeltrane01/grasscutters_banners_json](https://github.com/davidbeltrane01/grasscutters_banners_json)
-
-[https://github.com/KeyPJ/genshin-gacha-banners](https://github.com/KeyPJ/genshin-gacha-banners)
-
-[https://github.com/Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)
-
-## 鸣谢：
+## Thanks|鸣谢:
 
 [https://github.com/davidbeltrane01/grasscutters_banners_json](https://github.com/davidbeltrane01/grasscutters_banners_json)
 
 [https://github.com/KeyPJ/genshin-gacha-banners](https://github.com/KeyPJ/genshin-gacha-banners)
 
 [https://github.com/Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)
+
+[https://github.com/jie65535/GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator)
