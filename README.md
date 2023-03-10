@@ -1,4 +1,4 @@
-# Grasscurrer_Banners
+# Grasscutter_Banners
 # 割草机卡池文件
 
 Json file collection for Grasscutter gacha Banners
