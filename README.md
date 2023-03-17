@@ -42,7 +42,7 @@ You're all welcome to submit a pull request and make a change on the project.
 
 >100 初行祈愿
 
->201 常驻祈愿
+>200 常驻祈愿
 
 >301 角色活动祈愿1
 
