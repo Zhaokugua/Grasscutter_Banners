@@ -1,6 +1,6 @@
 [{
-  "comment":"1.4",
-  "gachaType":401,
+  "comment":"1.4.1 Venti",
+  "gachaType":301,
   "scheduleId":3,
   "prefabPath":"GachaShowPanel_A036",
   "titlePath":"UI_GACHA_SHOW_PANEL_A036_TITLE",
@@ -20,8 +20,8 @@
   "poolBalanceWeights5":[[1,30],[147,150],[181,10230]],
   "bannerType":"EVENT"
 },{
-  "comment":"1.4",
-  "gachaType":401,
+  "comment":"1.4.1",
+  "gachaType":302,
   "scheduleId":2,
   "prefabPath":"GachaShowPanel_A038",
   "titlePath":"UI_GACHA_SHOW_PANEL_A038_TITLE",
@@ -43,11 +43,11 @@
   "eventChance5":75,
   "bannerType":"WEAPON"
 },{
-  "comment":"1.4",
-  "gachaType":401,
+  "comment":"Standard Wish",
+  "gachaType":200,
   "scheduleId":1,
-  "prefabPath":"GachaShowPanel_A017",
-  "titlePath":"UI_GACHA_SHOW_PANEL_A017_TITLE",
+  "prefabPath":"GachaShowPanel_A022",
+  "titlePath":"UI_GACHA_SHOW_PANEL_A022_TITLE",
   "costItemId":224,
   "endTime":1924992000,
   "sortId":1,
@@ -62,4 +62,19 @@
   "weights5":[[1,75],[73,150],[90,10000]],
   "poolBalanceWeights4":[[1,255],[17,255],[21,10455]],
   "poolBalanceWeights5":[[1,30],[147,150],[181,10230]]
+},{
+	"comment": "Beginner's Banner",
+	"gachaType": 100,
+	"scheduleId": 803,
+	"bannerType": "EVENT",
+	"prefabPath": "GachaShowPanel_A016",
+	"titlePath": "UI_GACHA_SHOW_PANEL_A016_TITLE",
+	"costItemId": 224,
+	"costItemAmount10": 8,
+	"gachaTimesLimit": 20,
+	"beginTime": 0,
+	"endTime": 1924992000,
+	"sortId": 9999,
+	"rateUpItems5": [],
+	"rateUpItems4": [1034]
 }]
