@@ -30,3 +30,33 @@ You're all welcome to submit a pull request and make a change on the project.
 [https://github.com/Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter)
 
 [https://github.com/jie65535/GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator)
+
+## 后记：
+
+修卡池的时候发现了一些经验。
+
+如果卡池出现类似A022的字样不正常的时候，可能是gachaType写错了，需要修改正确之后才能显示。
+
+以下是我尝试之后的可能结果，可能不一定准确但是这样确实外表看上去就是对的
+
+
+>100 初行祈愿
+
+>200 常驻祈愿
+
+>301 角色活动祈愿1
+
+>302 武器活动祈愿
+
+>400 角色活动祈愿2
+
+
+另外gachaType写对之后还可能出现卡池的标题消失的情况，这时候可能是titlePath的编号不对导致的。
+
+比如2.1上半
+
+"prefabPath":"GachaShowPanel_A054",
+
+"titlePath":"UI_GACHA_SHOW_PANEL_A020_TITLE",
+
+这里的titlePath里面必须是A020才能正确显示出“神铸赋形”这个武器池的标题，如果惯性思维还是填A054的话会导致标题区域空白
