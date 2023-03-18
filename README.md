@@ -61,7 +61,7 @@ You're all welcome to submit a pull request and make a change on the project.
 
 这里的titlePath里面必须是A020才能正确显示出“神铸赋形”这个武器池的标题，如果惯性思维还是填A054的话会导致标题区域空白
 
-后续发现了一些规律：
+### 后续发现了一些规律：
 关于卡池prefabPath代号和titlePath的规律：
 
 A016初行祈愿，A017原神1.0常驻池，A022常驻池
