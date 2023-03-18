@@ -41,7 +41,8 @@
   "poolBalanceWeights5":[[1,30],[147,150],[181,10230]],
   "eventChance4":75,
   "eventChance5":75,
-  "bannerType":"WEAPON"},{
+  "bannerType":"WEAPON"
+},{
   "comment":"Standard Wish",
   "gachaType":200,
   "scheduleId":1,
