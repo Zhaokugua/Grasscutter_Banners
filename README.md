@@ -193,3 +193,32 @@ titlePath留空表示是首次up，值与prefabPath一致
 | A125       | A048      | 神里绫华          | 角色2  | 400       | 3.5.2 |
 | A126       | A020      | 雾切之回光/息灾      | 武器   | 302       | 3.5.2 |
 
+附每个角色第一次up的代号
+```shell
+Venti:019
+Klee:018
+Tartaglia:023
+Zhongli:024
+Albedo:027
+Ganyu:028
+Xiao:031
+Keqing:032
+Hu Tao:033
+Eula:041
+Kaedehara Kazuha:045
+Kamizato Ayaka:048
+Yoimiya:049
+Raiden Shogun:052
+Sangonomiya Kokomi:053
+Arataki Itto:056
+Shenhe:065
+Yae Miko:071
+Kamisato Ayato:076
+Yelan:082
+Tighnari:091
+Cyno:097
+Nilou:100
+Nahida:103
+Wanderer:109
+Dehya:121
+```
