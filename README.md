@@ -234,3 +234,22 @@ Nahida:103
 Wanderer:109
 Dehya:121
 ```
+
+## 关于测试服卡池：
+最近测试CBT2的时候就在想正式服的卡池是从A016开始编号的，那之前的编号是不是就是测试服的？
+果不其然，我在CBT2中发现了一些影子。
+以下是在CBT2（0.7.1版本）中测试好的卡池。
+
+其中有一些`扭蛋预览Prefab路径`是可以直接填角色的英文名的，比如`UI_Tab_GachaShowPanel_Xiao`和`UI_Tab_GachaShowPanel_A003`都能正常显示魈的卡池预览
+
+| 扭蛋Prefab路径 | 扭蛋预览Prefab路径 | 五星up          | 四星up | 备注 |
+|------------|-----------|---------------|------|-----|
+|GachaShowPanel_A008|	UI_Tab_GachaShowPanel_Diluc | | | 奔行世间（常驻）|
+|GachaShowPanel_A007|	UI_Tab_GachaShowPanel_Noel |  | 诺艾尔 | 新手祈愿 |
+|GachaShowPanel_A006| | | | 卡池和预览都是空的 |
+|GachaShowPanel_A005|	UI_Tab_GachaShowPanel_A005 | | | 迪卢克头像但是没卡池|
+|GachaShowPanel_A004|	UI_Tab_GachaShowPanel_A004 | 钟离 | 凝光 | 斗转星移 |
+|GachaShowPanel_A003|	UI_Tab_GachaShowPanel_Xiao | 魈 | 北斗 | 靖妖降魔 |
+|GachaShowPanel_A002|	UI_Tab_GachaShowPanel_Venti | 温迪 | 雷泽 | 北风的诗篇 |
+|GachaShowPanel_A001|	UI_Tab_GachaShowPanel_A001 | 琴/迪卢克 | | 新的旅程 普通祈愿（内测） |
+
