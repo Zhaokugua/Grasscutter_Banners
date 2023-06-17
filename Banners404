@@ -1,0 +1,22 @@
+[{
+  "comment":"Banners404",
+  "gachaType":301,
+  "scheduleId":3,
+  "prefabPath":"GachaShowPanel_Default",
+  "titlePath":"UI_Tab_GachaShowPanel_Default",
+  "costItemId":223,
+  "endTime":1924992000,
+  "sortId":1000,
+  "rateUpItems4":[1005,1007],
+  "rateUpItems5":[1005,1007],
+  "fallbackItems3":[1005,1007],
+  "fallbackItems4Pool1":[1005,1007],
+  "fallbackItems4Pool2":[1005,1007],
+  "fallbackItems5Pool1":[1005,1007],
+  "fallbackItems5Pool2":[1005,1007],
+  "weights4":[[1,10000]],
+  "weights5":[[1,10000]],
+  "poolBalanceWeights4":[[1,0]],
+  "poolBalanceWeights5":[[1,0]],
+  "bannerType":"EVENT"
+}]
