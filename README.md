@@ -39,16 +39,15 @@ You're all welcome to submit a pull request and make a change on the project.
 
 以下是我尝试之后的可能结果，可能不一定准确但是这样确实外表看上去就是对的
 
+（后来参考了[https://github.com/sunfkny/genshin-gacha-export/blob/main/gacha_metadata.py](https://github.com/sunfkny/genshin-gacha-export/blob/main/gacha_metadata.py)里面确认了就是这几个代号）
 
->100 初行祈愿
-
->200 常驻祈愿
-
->301 角色活动祈愿1
-
->302 武器活动祈愿
-
->400 角色活动祈愿2
+| gachaType | 卡池类型 |
+|-----------|-----------|
+|100 |初行祈愿|
+|200 |常驻祈愿|
+|301 |角色活动祈愿1|
+|302 |武器活动祈愿|
+|400| 角色活动祈愿2|
 
 
 另外gachaType写对之后还可能出现卡池的标题消失的情况，这时候可能是titlePath的编号不对导致的。
