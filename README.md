@@ -27,7 +27,10 @@ You're all welcome to submit a pull request and make a change on the project.
 
 当然也存在特殊情况，比如原神1.3版本就有三个角色卡池，所以他们分别叫做`Banners1.3.1.json`、`Banners1.3.2.json`和`Banners1.3.3.json`。
 
-`BannersFull.json`是全卡池文件，汇总了包括新手祈愿、两个常驻祈愿和所有版本的角色和武器活动祈愿的卡池，由于一个卡池文件中`scheduleId`不能重复否则只会加载其中的一个，所以里面的`scheduleId`都按顺序排号了，其它的信息都和单独版本的卡池文件一致。
+`BannersFull.json`是全卡池文件*，汇总了包括新手祈愿、两个常驻祈愿和所有版本的角色和武器活动祈愿的卡池，由于一个卡池文件中`scheduleId`不能重复否则只会加载其中的一个，所以里面的`scheduleId`都按顺序排号了，其它的信息都和单独版本的卡池文件一致。
+
+*注意：为确保卡池数据的稳定性，全卡池文件`BannersFull.json`仅会在游戏中验证完成可用性和正确性之后才会更新，由于Grasscutter可能不会每个版本都更新，所以全卡池文件可能不包含最新的卡池数据。
+您可以手动从对应版本的卡池文件里复制到全卡池文件里手动添加。
 
 ---
 
