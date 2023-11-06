@@ -353,7 +353,7 @@ Baizhu:130
 Lyney:145
 Neuvllette:151
 Wriothesley:154
-Furina:
+Furina:157
 ```
 
 ## 关于测试服卡池：
