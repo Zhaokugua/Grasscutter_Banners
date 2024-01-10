@@ -25,7 +25,7 @@ You're all welcome to submit a pull request and make a change on the project.
 
 一般来说原神每个版本分上半和下半两个卡池，所以这种情况下.1代表上半卡池，.2则代表下半卡池。比如4.0上半卡池叫做`Banners4.0.1.json`，下半卡池叫做`Banners4.0.2.json`
 
-当然也存在特殊情况，比如原神1.3版本就有三个角色卡池，所以他们分别叫做`Banners1.3.1.json`、`Banners1.3.2.json`和`Banners1.3.3.json`。
+当然也存在特殊情况，比如原神1.3版本就有三个角色卡池，所以他们分别叫做`Banners1.3.1.json`、`Banners1.3.2.json`和`Banners1.3.3.json`。(但是1.3版本的武器池只有两个，中间的角色池穿插了前后两个不同的武器池，所以严格来看也不太准确，暂时就按照角色划分了)
 
 `BannersFull.json`是全卡池文件*，汇总了包括新手祈愿、两个常驻祈愿和所有版本的角色和武器活动祈愿的卡池，由于一个卡池文件中`scheduleId`不能重复否则只会加载其中的一个，所以里面的`scheduleId`都按顺序排号了，其它的信息都和单独版本的卡池文件一致。
 
