@@ -379,7 +379,7 @@ Furina:157
 Navia:163
 Xianyun:169
 Chiori:175
-Arlecchino:
+Arlecchino:181
 ```
 
 ## 关于测试服卡池：
